@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 *.pyo
 ultra-marathon-dataset/
+eda_copy.py
