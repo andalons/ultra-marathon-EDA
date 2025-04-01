@@ -1,4 +1,4 @@
-<img src="assets/transvulcania_logo.png" alt="Transvulcania Logo" width="50"/>
+<img src="assets/perfil_transvulcania.png" alt="Transvulcania Logo" width="100%"/>
 
 ## **Análisis Exploratorio de Datos de la Ultra Maratón Transvulcania 🌋**
 
