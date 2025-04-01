@@ -1,6 +1,6 @@
-<img src="assets/perfil_transvulcania.png" alt="Transvulcania Logo" width="100%"/>
-
 ## **Análisis Exploratorio de Datos de la Ultra Maratón Transvulcania 🌋**
+
+<img src="assets/perfil_transvulcania.png" alt="Transvulcania Logo" width="100%"/>
 
 La Transvulcania no es solo una carrera; es la heredera de antiguos senderos de trashumancia que históricamente articularon la comunicación entre las remotas comunidades de la isla.
 
@@ -14,4 +14,4 @@ Para llevar a cabo este análisis, se han utilizado diversas librerías de **Pyt
 
 El dataset utilizado para este análisis puede encontrarse en [este enlace](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running).
 
-Puedes consultar los gráficos generados en [este notebook](eda_ultra_marathon.ipynb) o acceder directamente al informe ejecutivo [aquí](assets/informe_ejecutivo.pdf)
+Puedes consultar los gráficos generados en [este notebook](eda_ultra_marathon.ipynb) o acceder directamente al informe ejecutivo [aquí](assets/informe_ejecutivo.pdf).
